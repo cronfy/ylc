@@ -1,0 +1,15 @@
+{
+  "name": "cronfy/ylc",
+  "license": "BSD-3-Clause",
+  "description": "Yii2-to-Legacy connector",
+
+  "require": {
+    "php": ">=5.4.0"
+  },
+
+  "autoload": {
+    "psr-4": {
+      "cronfy\\ylc\\": "src/"
+    }
+  }
+}
